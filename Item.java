@@ -6,5 +6,6 @@ public class Item {
 	public String name;
 	public double cost;
 	public String type;
+public String manager;
 
 }
